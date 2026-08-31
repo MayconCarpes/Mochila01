@@ -14,6 +14,7 @@ Testadas em **9 instâncias benchmark** com soluções ótimas conhecidas, varia
 ```
 ├── main.py                          # Ponto de entrada
 ├── requirements.txt                 # Dependências (python-docx)
+├── Mochila01_MetaHeuristicas_TabuVsAG.pptx # Apresentação de Slides PowerPoint
 ├── data/
 │   └── instances.py                 # 9 instâncias benchmark hardcoded
 ├── src/
@@ -159,4 +160,3 @@ O CSV contém as colunas:
 ## 📝 Licença
 
 Projeto acadêmico.
-# Mochila01
